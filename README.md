@@ -10,7 +10,7 @@
 <br>
 > 基于人民卫生出版社《儿科学》第10版的临床技能手册 — 184 项儿科核心临床技能
 <br>
-<img src="https://github.com/xllgreen/Surgery-PMPH-10edition-/blob/main/assets/Pediatrics.png" width="260px">
+<img src="/assets/Pediatrics.png" width="260px">
 <br>
 
 何必苦苦读一本书<br>
