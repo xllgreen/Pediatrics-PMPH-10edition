@@ -10,6 +10,7 @@
 <br>
 > 基于人民卫生出版社《儿科学》第10版的临床技能手册 — 184 项儿科核心临床技能
 <br>
+<img src="https://github.com/xllgreen/Surgery-PMPH-10edition-/blob/main/assets/Pediatrics.png" width="260px">
 <br>
 
 何必苦苦读一本书<br>
@@ -99,16 +100,20 @@ Ask before making any broader environment changes.
 - "依据「儿童肾病综合征诊断与分型」技能，分析一名5岁男孩大量蛋白尿、低白蛋白血症、水肿的诊断步骤。"
 - "参考「国家免疫规划疫苗应用」和「12月龄内婴儿强制疫苗清单」，为一名2月龄健康婴儿制定0–12月龄全程免疫计划。"
 
+## 关于作者
+
+**小绿绿 xllgreen(https://xllgreen.github.io)** — 九江学院临床医学院学生·科技极客
+
 ## 许可证
 
 本项目内容基于人民卫生出版社《儿科学》第10版整理，仅供学习参考。
 
 ## Star History
 
-<a href="https://www.star-history.com/#">
+<a href="https://www.star-history.com/?repos=xllgreen%2FPediatrics-PMPH-10edition&type=date&legend=top-left">
  <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=&type=date&theme=dark" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=&type=date" />
-   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=&type=date" />
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=xllgreen/Pediatrics-PMPH-10edition&type=date&theme=dark&legend=top-left" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=xllgreen/Pediatrics-PMPH-10edition&type=date&legend=top-left" />
+   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=xllgreen/Pediatrics-PMPH-10edition&type=date&legend=top-left" />
  </picture>
 </a>
