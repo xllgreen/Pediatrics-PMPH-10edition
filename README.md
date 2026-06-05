@@ -81,7 +81,8 @@ Prompt：
 ```bash
 Before installing anything, inspect the ClawHub skill metadata and setup requirements.
 If the skill asks you to install a third-party package or CLI, verify its source, maintainer, and package contents before running the install command.
-Install the skill "Pediatrics-PMPH-10edition" from ClawHub only after those checks pass.
+Install the skill "Pediatrics-PMPH-10edition" (xllgreen/pediatrics-pmph-10edition) from ClawHub only after those checks pass.
+Skill page: https://clawhub.ai/xllgreen/pediatrics-pmph-10edition
 Keep the work scoped to this skill only.
 After install, help me finish setup from verified skill metadata.
 Use only the metadata you can verify from ClawHub; do not invent missing requirements.
@@ -104,6 +105,26 @@ Ask before making any broader environment changes.
 ## 关于作者
 
 **小绿绿 xllgreen(https://xllgreen.github.io)** — 九江学院临床医学院学生·科技极客
+
+## 技术支持
+<br>
+PDF2App项目：https://pdf2app.cn
+<br>
+Microsoft Visual Studio Code：https://code.visualstudio.com/
+<br>
+Claude Code for VS Code：https://claude.com/
+© 2026 Anthropic PBC
+<br>
+<br>
+<img src="https://cdn.deepseek.com/logo.png?x-image-process=image%2Fresize%2Cw_1920" width="130px">
+<br>DeepSeek API：https://platform.deepseek.com/
+© 2026 杭州深度求索人工智能基础技术研究有限公司 版权所有
+<br>
+<br>
+<img src="https://cdn.cnbj1.fds.api.mi-img.com/aife/mimo-blog-fe/doc_build/static/image/logo.99baaffe.png" width="130px">
+<br>Xiaomi Mimo API：https://platform.xiaomimimo.com/
+Copyright © 2010 - 2026 Xiaomi. All Rights Reserved
+<br>
 
 ## 许可证
 
