@@ -1,6 +1,7 @@
 ---
 name: Rickets Laboratory Differential Diagnosis
 description: 根据实验室指标组合对佝偻病亚型进行鉴别诊断，适用于疑似佝偻病患儿或对常规维生素D治疗无效者。当患儿存在佝偻病体征但治疗反应不佳，或实验室结果不符合典型维生素D缺乏模式时使用本技能。
+version: 1.0.0
 ---
 
 # 佝偻病实验室鉴别诊断

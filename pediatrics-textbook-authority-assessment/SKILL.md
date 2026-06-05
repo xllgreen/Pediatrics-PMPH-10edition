@@ -1,6 +1,7 @@
 ---
 name: Pediatrics Textbook Authority Assessment
 description: 评估人民卫生出版社2024年第10版《儿科学》教材的学术权威性与临床指导价值。当用户需要判断该教材内容是否可信、是否适用于教学或临床参考时使用本技能。
+version: 1.0.0
 ---
 
 # Pediatrics Textbook Authority Assessment

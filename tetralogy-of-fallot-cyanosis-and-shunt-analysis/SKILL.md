@@ -1,6 +1,7 @@
 ---
 name: tetralogy-of-fallot-cyanosis-and-shunt-analysis
 description: 分析法洛四联症患者的青紫机制与心内分流方向，基于肺动脉狭窄程度、动脉导管状态及主动脉骑跨比例判断青紫严重程度。当患者被诊断为法洛四联症并出现青紫症状时使用此技能，以指导临床干预时机。
+version: 1.0.0
 ---
 
 # 法洛四联症青紫机制与分流方向判定

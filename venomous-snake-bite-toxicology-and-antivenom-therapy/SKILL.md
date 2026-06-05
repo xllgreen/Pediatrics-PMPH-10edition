@@ -1,6 +1,7 @@
 ---
 name: Venomous Snake Bite Toxicology and Antivenom Therapy
 description: Analyze the mechanism of snake venom toxicity (neurotoxic, hemotoxic, cytotoxic) and determine appropriate antivenom use based on clinical signs. Use this skill when a patient has confirmed or suspected venomous snake bite with systemic or progressive local symptoms.
+version: 1.0.0
 ---
 
 # 毒蛇咬伤中毒机制分析与抗蛇毒血清治疗

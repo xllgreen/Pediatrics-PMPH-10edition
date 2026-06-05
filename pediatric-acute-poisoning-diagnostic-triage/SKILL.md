@@ -1,6 +1,7 @@
 ---
 name: Pediatric Acute Poisoning Diagnostic Triage
 description: Apply a three-step diagnostic approach to identify potential poisoning in children presenting with non-specific acute symptoms (e.g., vomiting, seizures, coma) when history is unclear. Use this skill when a child has acute-onset neurological or gastrointestinal symptoms without clear infectious or metabolic cause.
+version: 1.0.0
 ---
 
 # 儿童急性中毒诊断三步法
