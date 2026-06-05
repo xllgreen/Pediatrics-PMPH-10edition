@@ -12,21 +12,21 @@
 | [japanese-encephalitis-vaccination-schedule](japanese-encephalitis-vaccination-schedule/SKILL.md) | 提供乙脑疫苗的剂次、时间、途径和剂量安排 | 当需要为8月龄及以上儿童制定或确认乙脑疫苗接种计划时使用 |
 | [mandatory-infant-vaccines-under-12-months](mandatory-infant-vaccines-under-12-months/SKILL.md) | 确认并指导0-12月龄婴儿完成国家规定的五种强制性基础免疫疫苗接种 | 当用户询问1岁内婴儿必须接种哪些疫苗、是否完成基础免疫，或基层机构需核对免疫程序时使用 |
 | [child-immunization-planning](child-immunization-planning/SKILL.md) | 定义儿童计划免疫的核心概念、实施方式与公共卫生目标 | 当需要理解或应用儿童免疫程序的理论基础时使用 |
-| [婴儿胆汁淤积症诊断标准应用](婴儿胆汁淤积症诊断标准应用/SKILL.md) | 判断新生儿或婴儿是否符合NASPGHAN推荐的生化诊断阈值 | 当患儿出现黄疸且肝功能异常（如ALT/AST升高或肝脏增大）时使用 |
+| [婴儿胆汁淤积症诊断标准应用](infant-cholestasis-diagnostic-criteria/SKILL.md) | 判断新生儿或婴儿是否符合NASPGHAN推荐的生化诊断阈值 | 当患儿出现黄疸且肝功能异常（如ALT/AST升高或肝脏增大）时使用 |
 | [pediatric-acute-poisoning-diagnostic-triage](pediatric-acute-poisoning-diagnostic-triage/SKILL.md) | 应用三步法识别潜在中毒，尤其在病史不清时 | 当儿童出现无明确病因的急性神经系统或胃肠道症状（如呕吐、抽搐、昏迷）时使用 |
 | [primary-nocturnal-enuresis-diagnosis-and-treatment](primary-nocturnal-enuresis-diagnosis-and-treatment/SKILL.md) | 对原发性遗尿症进行系统评估、确诊及制定干预方案 | 当5岁及以上儿童每月至少1次睡眠中不自主排尿，且已排除继发性病因时使用 |
 | [neural-myelination-development-in-children](neural-myelination-development-in-children/SKILL.md) | 判断婴幼儿髓鞘化完成状态，解释神经功能表现 | 当需评估神经成熟度、解释动作不协调或Babinski征阳性等现象时使用 |
 | [venomous-snake-bite-toxicology-and-antivenom-therapy](venomous-snake-bite-toxicology-and-antivenom-therapy/SKILL.md) | 分析蛇毒毒性机制并确定抗蛇毒血清使用方案 | 当患者有确认或疑似毒蛇咬伤伴系统性或进展性局部症状时使用 |
 | [infant-toddler-sleep-duration-guidelines](infant-toddler-sleep-duration-guidelines/SKILL.md) | 根据月龄提供0～5岁婴幼儿每日总睡眠时间推荐范围 | 当保健人员或家长需规划或评估健康婴幼儿睡眠时使用 |
-| [蛔虫病并发症临床识别与处理](蛔虫病并发症临床识别与处理/SKILL.md) | 识别和处理胆道蛔虫病、肠梗阻等急腹症并发症 | 当患儿有排蛔史或粪检阳性，并出现右上腹剧痛、呕吐蛔虫或脐周阵发性剧痛伴梗阻征象时使用 |
+| [蛔虫病并发症临床识别与处理](ascariasis-complications-management/SKILL.md) | 识别和处理胆道蛔虫病、肠梗阻等急腹症并发症 | 当患儿有排蛔史或粪检阳性，并出现右上腹剧痛、呕吐蛔虫或脐周阵发性剧痛伴梗阻征象时使用 |
 | [microscopic-hematuria-diagnosis](microscopic-hematuria-diagnosis/SKILL.md) | 通过尿沉渣镜检确认真性镜下血尿并识别假阳性/阴性干扰 | 当尿液分析仪潜血阳性或临床怀疑血尿时使用 |
 | [pediatric-tuberculosis-preventive-therapy](pediatric-tuberculosis-preventive-therapy/SKILL.md) | 为高危儿童制定标准预防性抗结核治疗方案 | 当儿童有结核高危暴露史或结核菌素试验阳性，且已排除活动性结核时使用 |
 | [child-malnutrition-diagnosis](child-malnutrition-diagnosis/SKILL.md) | 应用体重低下、生长迟缓和消瘦三项指标诊断营养不良类型与严重程度 | 当任一指标低于参照人群均值减2个标准差（X̄−2S）时使用 |
 | [dohad-theory-in-child-health](dohad-theory-in-child-health/SKILL.md) | 评估生命早期环境暴露对成年慢性病风险的影响并指导干预 | 当关注儿童期干预对成人慢性病预防作用、解释“生命早期一千天”意义或制定保健策略时使用 |
 | [evaluate-national-medical-textbook-authority](evaluate-national-medical-textbook-authority/SKILL.md) | 评估医学教材是否符合国家级权威认定标准 | 当需判断某医学教材是否可作为权威教学或临床参考源，尤其涉及“十四五”规划教材或国家级奖项时使用 |
-| [婴幼儿屏气发作识别与家庭干预](婴幼儿屏气发作识别与家庭干预/SKILL.md) | 识别情绪诱发的屏气发作并实施非惩罚性家庭干预 | 当孩子在哭闹、恐惧或疼痛后出现呼吸暂停、发绀、昏厥等症状，需与癫痫鉴别时使用 |
+| [婴幼儿屏气发作识别与家庭干预](infant-breath-holding-spells-identification/SKILL.md) | 识别情绪诱发的屏气发作并实施非惩罚性家庭干预 | 当孩子在哭闹、恐惧或疼痛后出现呼吸暂停、发绀、昏厥等症状，需与癫痫鉴别时使用 |
 | [ghd-diagnosis-and-lab-testing](ghd-diagnosis-and-lab-testing/SKILL.md) | 执行生长激素缺乏症的标准化诊断流程，包括刺激试验和辅助评估 | 当儿童出现匀称性矮小、年生长速率<5cm、骨龄落后≥2年且智力正常时使用 |
-| [儿童体格生长评价四原则](儿童体格生长评价四原则/SKILL.md) | 对0-18岁儿童体格生长进行科学系统评估 | 当需判断儿童是否正常生长、是否存在发育偏离风险，或决定是否干预、转诊时使用 |
+| [儿童体格生长评价四原则](child-growth-assessment-four-principles/SKILL.md) | 对0-18岁儿童体格生长进行科学系统评估 | 当需判断儿童是否正常生长、是否存在发育偏离风险，或决定是否干预、转诊时使用 |
 | [rhgh-treatment-and-monitoring-for-ghd](rhgh-treatment-and-monitoring-for-ghd/SKILL.md) | 制定rhGH初始治疗、剂量调整及安全性监测计划 | 当患儿确诊GHD且无禁忌证（如恶性肿瘤、严重糖尿病）时使用 |
 | [clinical-medicine-textbook-revision-principles](clinical-medicine-textbook-revision-principles/SKILL.md) | 提供五年制临床医学教材编写修订必须遵循的五大核心原则 | 当参与医学教材开发、政策制定、教育管理或评审并需符合国家最新政策要求时使用 |
 | [adhd-diagnosis-and-treatment-principles](adhd-diagnosis-and-treatment-principles/SKILL.md) | 对学龄儿童进行ADHD标准化评估、诊断与综合干预 | 当儿童持续表现注意力不集中、多动、冲动并明显影响学习或生活时使用 |
@@ -72,7 +72,7 @@
 | [infectious-mononucleosis-diagnosis](infectious-mononucleosis-diagnosis/SKILL.md) | 对疑似IM患者进行确诊或排除诊断 | 当患者出现发热、咽痛、肝脾及淋巴结肿大等典型表现并已完成相关实验室检查时 |
 | [shui-dou-bao-lu-hou-bei-dong-mian-yi-gan-yu](shui-dou-bao-lu-hou-bei-dong-mian-yi-gan-yu/SKILL.md) | 提供水痘-带状疱疹免疫球蛋白肌注实现暴露后紧急被动免疫保护 | 当高危个体在72小时内明确接触水痘患者时 |
 | [jia-ilar-diagnostic-criteria](jia-ilar-diagnostic-criteria/SKILL.md) | 使用ILAR标准对儿童进行JIA诊断与亚型分类 | 当描述符合“年龄<16岁、关节肿胀或疼痛持续≥6周、病因不明”时 |
-| [新生儿低血糖诊断与分层治疗](新生儿低血糖诊断与分层治疗/SKILL.md) | 进行标准化诊断确认和按症状/病因分层的治疗干预 | 当新生儿血糖低于2.2 mmol/L（无论有无症状）时 |
+| [新生儿低血糖诊断与分层治疗](neonatal-hypoglycemia-layered-treatment/SKILL.md) | 进行标准化诊断确认和按症状/病因分层的治疗干预 | 当新生儿血糖低于2.2 mmol/L（无论有无症状）时 |
 | [rickets-laboratory-differential-diagnosis](rickets-laboratory-differential-diagnosis/SKILL.md) | 根据实验室指标组合对佝偻病亚型进行鉴别诊断 | 当患儿存在佝偻病体征但治疗反应不佳，或实验室结果不符合典型维生素D缺乏模式时 |
 | [pphn-ino-inhalation-therapy](pphn-ino-inhalation-therapy/SKILL.md) | 启动iNO吸入治疗以改善氧合并减少ECMO使用 | 当足月或近足月PPHN新生儿在充分肺泡募集后OI达15～25时 |
 | [pid-replacement-and-reconstruction-therapy](pid-replacement-and-reconstruction-therapy/SKILL.md) | 制定PID个体化替代或免疫重建治疗方案并管理支持措施 | 当需为特定PID类型选择治疗路径、评估HSCT适用性或管理支持措施时 |
@@ -81,14 +81,14 @@
 | [scarlet-fever-antibiotic-treatment](scarlet-fever-antibiotic-treatment/SKILL.md) | 提供猩红热标准化抗菌治疗方案 | 当患儿出现发热、咽峡炎、典型皮疹及草莓舌时 |
 | [chuan-qi-bing-diagnosis-workflow](chuan-qi-bing-diagnosis-workflow/SKILL.md) | 判断是否符合完全性或不完全性川崎病诊断标准 | 当5岁以下持续发热≥5天且抗生素治疗无效的儿童提供相关临床或检查信息时 |
 | [henoch-schonlein-purpura-diagnosis](henoch-schonlein-purpura-diagnosis/SKILL.md) | 对疑似过敏性紫癜患儿进行确诊 | 当出现典型对称性压之不褪色紫癜并伴腹痛、关节炎、肾损害或IgA沉积中任一表现时 |
-| [新生儿黄疸风险评估与生理性黄疸诊断](新生儿黄疸风险评估与生理性黄疸诊断/SKILL.md) | 使用Bhutani曲线进行黄疸风险分层并判断是否为生理性黄疸 | 当新生儿出现皮肤黄染且已测定TSB、明确小时龄及胎龄、完成高危因素评估时 |
-| [暴发型流脑休克型抢救流程](暴发型流脑休克型抢救流程/SKILL.md) | 执行标准化综合抢救流程 | 当流脑患儿数小时内出现血压下降、意识障碍、皮肤瘀点瘀斑迅速融合时 |
+| [新生儿黄疸风险评估与生理性黄疸诊断](neonatal-jaundice-risk-assessment-diagnosis/SKILL.md) | 使用Bhutani曲线进行黄疸风险分层并判断是否为生理性黄疸 | 当新生儿出现皮肤黄染且已测定TSB、明确小时龄及胎龄、完成高危因素评估时 |
+| [暴发型流脑休克型抢救流程](fulminant-meningitis-shock-rescue/SKILL.md) | 执行标准化综合抢救流程 | 当流脑患儿数小时内出现血压下降、意识障碍、皮肤瘀点瘀斑迅速融合时 |
 | [measles-complication-identification-and-response](measles-complication-identification-and-response/SKILL.md) | 系统识别麻疹并发症类型并启动针对性检查与治疗 | 当麻疹确诊患儿出现高热不退、呼吸困难、意识改变或原有结核病史时 |
 | [pediatric-tuberculosis-comprehensive-diagnosis](pediatric-tuberculosis-comprehensive-diagnosis/SKILL.md) | 执行结核病综合评估流程以判断活动性、潜伏感染或排除结核 | 当儿童出现长期低热、盗汗、消瘦、结核接触史或PPD阳性等表现时 |
 | [pediatric-abdominal-mri-application](pediatric-abdominal-mri-application/SKILL.md) | 确定MRI是否适用并选择合适MRI技术进行腹部评估 | 当需对儿童肝脏、胰腺、胆管或小肠进行无电离辐射高软组织分辨率影像评估时 |
 | [er-ke-jia-si-jiao-mu-jun-bing-zhen-duan](er-ke-jia-si-jiao-mu-jun-bing-zhen-duan/SKILL.md) | 指导假丝酵母菌病标准化实验室诊断 | 当疑似皮肤黏膜或内脏假丝酵母菌感染患儿出现鹅口疮、肠炎、肺炎等表现且可获取病灶标本时 |
 | [gerd-postural-and-dietary-management-in-children](gerd-postural-and-dietary-management-in-children/SKILL.md) | 提供GERD非药物干预方案 | 当已确诊GERD且症状影响喂养或生长发育，在无严重并发症需立即手术前提下时 |
-| [抗结核两阶段疗法](抗结核两阶段疗法/SKILL.md) | 执行标准化两阶段抗结核治疗流程 | 当确诊为活动性原发性肺结核、急性粟粒性肺结核或结核性脑膜炎且无严重药物禁忌症时 |
+| [抗结核两阶段疗法](anti-tuberculosis-two-phase-therapy/SKILL.md) | 执行标准化两阶段抗结核治疗流程 | 当确诊为活动性原发性肺结核、急性粟粒性肺结核或结核性脑膜炎且无严重药物禁忌症时 |
 | [tuberculous-meningitis-intracranial-pressure-management](tuberculous-meningitis-intracranial-pressure-management/SKILL.md) | 系统性降低颅内压、预防脑疝并减少神经后遗症 | 当结核性脑膜炎患儿出现颅内压增高表现（如喷射性呕吐、前囟膨隆、视乳头水肿或意识障碍）时 |
 | [enterobiasis-diagnosis-and-treatment](enterobiasis-diagnosis-and-treatment/SKILL.md) | 进行蛲虫病确诊与规范驱虫治疗 | 当患儿出现夜间肛门瘙痒、睡眠不安，或在肛周发现白色线状成虫时 |
 | [biliary-atresia-etiology-and-pathogenesis](biliary-atresia-etiology-and-pathogenesis/SKILL.md) | 评估胆道闭锁病因构成及病理机制以指导早期干预 | 当新生儿出现持续性梗阻性黄疸且大便颜色变浅时 |
@@ -102,7 +102,7 @@
 | [pediatric-peptic-ulcer-drug-therapy](pediatric-peptic-ulcer-drug-therapy/SKILL.md) | 制定消化性溃疡联合治疗方案 | 当患儿确诊为消化性溃疡时 |
 | [pediatric-respiratory-pattern-development](pediatric-respiratory-pattern-development/SKILL.md) | 判断儿童呼吸类型是否符合生理规律并评估是否存在病理性呼吸急促或衰竭 | 当评估0-7岁儿童呼吸状态时 |
 | [congenital-hypertrophic-pyloric-stenosis-ultrasound-diagnosis](congenital-hypertrophic-pyloric-stenosis-ultrasound-diagnosis/SKILL.md) | 指导腹部B超检查并依据标准参数判断是否符合幽门狭窄超声诊断 | 当足月新生儿或2-8周龄婴儿出现进行性喷射性无胆汁呕吐且体检发现右上腹可疑橄榄样包块时 |
-| [肠套叠诊断与灌肠复位指征评估](肠套叠诊断与灌肠复位指征评估/SKILL.md) | 评估疑似肠套叠患儿是否符合灌肠复位适应证 | 当患儿出现阵发性规律性哭闹、呕吐、便血和腹部腊肠样包块，且病程在48小时内、全身状况良好、无禁忌证时 |
+| [肠套叠诊断与灌肠复位指征评估](intussusception-diagnosis-enema-reduction/SKILL.md) | 评估疑似肠套叠患儿是否符合灌肠复位适应证 | 当患儿出现阵发性规律性哭闹、呕吐、便血和腹部腊肠样包块，且病程在48小时内、全身状况良好、无禁忌证时 |
 | [pediatric-chronic-gastritis-vs-peptic-ulcer-differential-diagnosis](pediatric-chronic-gastritis-vs-peptic-ulcer-differential-diagnosis/SKILL.md) | 区分慢性胃炎、消化性溃疡及其他腹痛病因并指导进一步检查 | 当儿童出现慢性、反复发作的上腹或脐周腹痛，已完成基础体检和病史采集时 |
 | [mao-xi-zhi-qi-guan-yan-dui-zheng-zhi-liao](mao-xi-zhi-qi-guan-yan-dui-zheng-zhi-liao/SKILL.md) | 提供毛细支气管炎标准化对症支持治疗流程 | 当患儿血氧饱和度持续低于90%～92%或喘憋严重时 |
 | [congenital-hypothyroidism-etiology-and-thyroid-function](congenital-hypothyroidism-etiology-and-thyroid-function/SKILL.md) | 结合甲状腺激素作用及甲减病因分类指导诊断与干预 | 当评估新生儿甲状腺功能异常或发育迟缓时 |
@@ -133,14 +133,14 @@
 | [qian-yan-xing-chi-jiu-xie-xie-yu-ying-yang-bu-liang-gan-ran-xun-huan-gan-yu](qian-yan-xing-chi-jiu-xie-xie-yu-ying-yang-bu-liang-gan-ran-xun-huan-gan-yu/SKILL.md) | 评估并打破“腹泻-营养不良”恶性循环 | 当婴幼儿或儿童腹泻持续超过2周且存在营养不良体征（如体重不增、皮下脂肪减少）时 |
 | [pediatric-bacterial-pneumonia-antibiotic-selection](pediatric-bacterial-pneumonia-antibiotic-selection/SKILL.md) | 为细菌性肺炎患儿选择合适的抗菌药物、给药途径、联合用药方案及疗程 | 当临床诊断为细菌性肺炎、已排除单纯病毒感染、或存在继发细菌感染证据时 |
 | [wei-liang-yuan-su-que-fa-zhen-duan-yu-bu-chong](wei-liang-yuan-su-que-fa-zhen-duan-yu-bu-chong/SKILL.md) | 诊断并治疗儿童维生素A和锌缺乏症 | 当患儿出现夜盲、食欲减退、生长迟缓、反复感染、皮炎或智能发育延迟等症状时 |
-| [新生儿循环系统生理性转换评估](新生儿循环系统生理性转换评估/SKILL.md) | 评估新生儿循环系统从胎儿模式向成人模式的生理性转换是否顺利完成 | 在新生儿建立有效自主呼吸并完成脐带结扎后、且无持续性肺动脉高压或严重先天性心脏病干扰时 |
+| [新生儿循环系统生理性转换评估](neonatal-circulatory-transition-assessment/SKILL.md) | 评估新生儿循环系统从胎儿模式向成人模式的生理性转换是否顺利完成 | 在新生儿建立有效自主呼吸并完成脐带结扎后、且无持续性肺动脉高压或严重先天性心脏病干扰时 |
 | [infective-endocarditis-pathogenesis-assessment](infective-endocarditis-pathogenesis-assessment/SKILL.md) | 评估患者是否满足感染性心内膜炎的病理形成条件 | 当临床情境符合“基础心脏病变 + 菌血症诱因 + 内膜损伤机制”三要素时 |
-| [糖皮质激素在儿童重症肺炎中的使用指征](糖皮质激素在儿童重症肺炎中的使用指征/SKILL.md) | 提供适用对象确认、药物选择、剂量计算及疗程管理的标准化操作流程 | 当患儿被诊断为重症难治性支原体肺炎、重症腺病毒肺炎、A组链球菌肺炎、难治性脓毒症休克、病毒性脑病、ARDS，或上述情况合并哮喘/喘息且常规治疗无效时 |
+| [糖皮质激素在儿童重症肺炎中的使用指征](corticosteroid-severe-pneumonia-indications/SKILL.md) | 提供适用对象确认、药物选择、剂量计算及疗程管理的标准化操作流程 | 当患儿被诊断为重症难治性支原体肺炎、重症腺病毒肺炎、A组链球菌肺炎、难治性脓毒症休克、病毒性脑病、ARDS，或上述情况合并哮喘/喘息且常规治疗无效时 |
 | [ventricular-septal-defect-hemodynamic-classification](ventricular-septal-defect-hemodynamic-classification/SKILL.md) | 对室间隔缺损患儿进行小型、中型或大型分类并评估血流动力学风险等级 | 当临床需要判断室间隔缺损严重程度以决定是否手术干预时 |
 | [diagnose-refractory-mycoplasma-pneumonia-in-children](diagnose-refractory-mycoplasma-pneumonia-in-children/SKILL.md) | 判断是否符合难治性肺炎支原体肺炎的诊断标准 | 当5岁及以上已确诊肺炎支原体肺炎的患儿，在接受规范大环内酯类抗菌治疗≥7天后仍出现临床征象加重、持续发热、肺部影像学进展或肺外并发症时 |
 | [pediatric-bronchoscopy-indications-in-pneumonia](pediatric-bronchoscopy-indications-in-pneumonia/SKILL.md) | 判断儿童肺炎患者是否符合支气管镜检查的临床指征并指导规范执行 | 当患儿出现炎性分泌物或坏死物导致气道阻塞/肺不张、常规治疗无效需排查结构性病变，或怀疑病毒感染后气道结构损伤时 |
 | [tga-survival-dependent-on-mixing-pathways](tga-survival-dependent-on-mixing-pathways/SKILL.md) | 评估完全性大动脉转位新生儿是否存在维持生命所必需的血流混合通路 | 当新生儿被诊断为完全性大动脉转位时 |
-| [儿童肾病综合征诊断与分型](儿童肾病综合征诊断与分型/SKILL.md) | 判断是否符合肾病综合征诊断标准，并区分单纯型或肾炎型NS，评估激素治疗反应类型 | 在患儿出现水肿、泡沫尿等症状，且已获得尿液和血液实验室检查结果时 |
+| [儿童肾病综合征诊断与分型](child-nephrotic-syndrome-diagnosis-classification/SKILL.md) | 判断是否符合肾病综合征诊断标准，并区分单纯型或肾炎型NS，评估激素治疗反应类型 | 在患儿出现水肿、泡沫尿等症状，且已获得尿液和血液实验室检查结果时 |
 | [itp-clinical-staging](itp-clinical-staging/SKILL.md) | 将ITP患儿分为新诊断、持续性、慢性、重症或难治性阶段 | 当已确诊ITP且需制定或调整治疗策略时 |
 | [viral-myocarditis-diagnostic-criteria](viral-myocarditis-diagnostic-criteria/SKILL.md) | 对疑似病毒性心肌炎患儿进行结构化诊断评估 | 当患者有前驱感染史并出现心功能异常或显著心电图改变时 |
 | [pediatric-premature-contraction-classification-diagnosis-treatment](pediatric-premature-contraction-classification-diagnosis-treatment/SKILL.md) | 明确期前收缩类型（房性、交界性或室性）及是否需要药物干预 | 当儿童心电图显示提前QRS波，且需明确类型或干预指征时 |
@@ -158,20 +158,20 @@
 | [lch-danger-organ-involvement-assessment](lch-danger-organ-involvement-assessment/SKILL.md) | 判定多系统LCH患儿是否存在“危险器官”（肝、脾、造血系统）受累 | 当LCH患儿出现肝脾肿大、血细胞减少或多器官功能异常时 |
 | [aiha-diagnosis-and-treatment-pathway](aiha-diagnosis-and-treatment-pathway/SKILL.md) | 对Coombs试验阳性的溶血性贫血患儿进行AIHA分型诊断并制定一线/二线治疗及输血方案 | 当患儿出现贫血、黄疸、网织红细胞升高、结合珠蛋白降低且Coombs试验阳性时使用 |
 | [febrile-seizure-classification-and-prevention-indications](febrile-seizure-classification-and-prevention-indications/SKILL.md) | 对热性惊厥进行临床分类并判断是否需预防性治疗 | 当用户描述儿童发热伴抽搐、询问热性惊厥类型或咨询是否需长期抗惊厥药物预防时使用 |
-| [病毒性脑炎抗病毒治疗决策](病毒性脑炎抗病毒治疗决策/SKILL.md) |  |  |
+| [病毒性脑炎抗病毒治疗决策](viral-encephalitis-antiviral-decision/SKILL.md) |  |  |
 | [gbs-immunotherapy-management](gbs-immunotherapy-management/SKILL.md) | 为急性期GBS患儿提供基于循证医学的免疫治疗方案选择与执行指导 | 当用户需确定是否使用IVIG或血浆置换、计算剂量、评估禁忌证及制定疗程时使用 |
 | [hlh-2004-diagnostic-criteria](hlh-2004-diagnostic-criteria/SKILL.md) | 根据HLH-2004标准对疑似HLH的重症儿童进行诊断评估 | 当患儿出现持续高热、肝脾大、全血细胞减少或神经系统症状等多系统受累表现时使用 |
 | [myasthenia-gravis-crisis-differentiation-and-rescue](myasthenia-gravis-crisis-differentiation-and-rescue/SKILL.md) | 鉴别肌无力危象与胆碱能危象并执行对应抢救措施 | 当重症肌无力患儿出现急性肌无力恶化并危及生命时使用 |
 | [xin-sheng-er-yi-chuan-bing-shai-cha-na-ru-ping-gu](xin-sheng-er-yi-chuan-bing-shai-cha-na-ru-ping-gu/SKILL.md) | 评估某项遗传病是否应纳入新生儿筛查项目 | 当公共卫生决策者、临床遗传学家或政策制定者考虑将一种遗传病加入官方新生儿筛查名录时使用 |
 | [dmd-bmd-glucocorticoid-therapy-protocol](dmd-bmd-glucocorticoid-therapy-protocol/SKILL.md) | 指导DMD/BMD患儿尽早启动并规范管理泼尼松治疗 | 当患儿确诊为假肥大型肌营养不良（Duchenne或Becker型）时使用 |
-| [遗传性疾病三级预防体系实施](遗传性疾病三级预防体系实施/SKILL.md) | 制定并执行覆盖孕前、孕期和新生儿期的系统性遗传病防控策略 | 当需要为公共卫生政策、临床筛查项目或遗传性疾病管理设计综合性干预方案时使用 |
+| [遗传性疾病三级预防体系实施](genetic-disease-three-level-prevention/SKILL.md) | 制定并执行覆盖孕前、孕期和新生儿期的系统性遗传病防控策略 | 当需要为公共卫生政策、临床筛查项目或遗传性疾病管理设计综合性干预方案时使用 |
 | [pancreatic-islet-cell-types-and-hormone-functions](pancreatic-islet-cell-types-and-hormone-functions/SKILL.md) | 解释胰岛内不同细胞类型的组成、分布及其激素分泌功能 | 当用户需理解胰岛素/胰高血糖素失衡的细胞基础、评估胰岛结构功能关系或探讨糖尿病相关病理机制时使用 |
 | [gbs-diagnosis-and-subtyping](gbs-diagnosis-and-subtyping/SKILL.md) | 依据脑脊液和电生理检查结果判断是否符合GBS诊断标准并确定亚型 | 当面对急性对称性弛缓性瘫痪患儿且病前6周内有感染史时使用 |
 | [purulent-meningitis-complication-management](purulent-meningitis-complication-management/SKILL.md) | 识别并处理化脓性脑膜炎治疗48～72小时后出现的并发症 | 当患儿出现体温复升、意识障碍加重、前囟隆起等症状时使用 |
 | [zhong-shu-xing-niao-beng-zheng-zhen-duan-jin-shui-jia-ya-su-shi-yan](zhong-shu-xing-niao-beng-zheng-zhen-duan-jin-shui-jia-ya-su-shi-yan/SKILL.md) | 执行并解读禁水-加压素试验以鉴别中枢性尿崩症、肾性尿崩症与正常状态 | 当患儿表现为烦渴、多饮、多尿及低比重尿，且已排除高渗性利尿等其他病因时使用 |
 | [neuroendocrine-axis-feedback-analysis](neuroendocrine-axis-feedback-analysis/SKILL.md) | 分析下丘脑-垂体-靶器官轴系中激素异常时的反馈调节状态，判断原发性或继发性内分泌功能障碍 | 当检测到HPT、HPA、HPG或生长轴中任一环节激素水平异常时使用 |
 | [genetic-disease-treatment-strategy-selection](genetic-disease-treatment-strategy-selection/SKILL.md) | 根据遗传性疾病的病因、表现、阶段及可用疗法选择治疗策略组合 | 当用户确诊遗传性疾病并需制定个体化治疗方案时使用 |
-| [急性肾炎严重并发症识别与紧急处理](急性肾炎严重并发症识别与紧急处理/SKILL.md) | 快速识别并启动针对严重循环充血、高血压脑病或急性肾损伤的紧急处理流程 | 当急性肾炎患儿（尤其起病2周内）出现呼吸急促、肺湿啰音、剧烈头痛、惊厥、意识障碍、少尿或无尿等危急症状时使用 |
+| [急性肾炎严重并发症识别与紧急处理](acute-nephritis-complications-management/SKILL.md) | 快速识别并启动针对严重循环充血、高血压脑病或急性肾损伤的紧急处理流程 | 当急性肾炎患儿（尤其起病2周内）出现呼吸急促、肺湿啰音、剧烈头痛、惊厥、意识障碍、少尿或无尿等危急症状时使用 |
 | [wilson-bing-tong-dai-xie-yi-chang-ji-zhi-fen-xi](wilson-bing-tong-dai-xie-yi-chang-ji-zhi-fen-xi/SKILL.md) | 分析Wilson病的铜代谢异常机制以支持诊断 | 当患者出现肝损害或神经系统症状且血清铜蓝蛋白<200mg/L时使用 |
 | [pediatric-authoritative-literature-recommendation](pediatric-authoritative-literature-recommendation/SKILL.md) | 提供新生儿及儿童疾病领域最新权威的循证医学文献 | 当用户需获取专家共识、系统综述或教材以支持临床决策、研究或学习时使用 |
 | [genetic-disorder-classification-and-diagnostic-pathway](genetic-disorder-classification-and-diagnostic-pathway/SKILL.md) | 对疑似遗传病患儿进行五大类划分并执行四步诊断流程 | 当面对存在多发畸形、智力发育迟缓、特殊面容或阳性家族史的儿童患者时使用 |
