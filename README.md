@@ -103,6 +103,13 @@ Use only the metadata you can verify from ClawHub; do not invent missing require
 Ask before making any broader environment changes.
 ```
 
+### 安装后使用
+需要对agent交代以下内容：
+```bash
+每次回答前请先去查一遍对应的医学skill来确认
+```
+
+
 ### 查找技能
 
 ```bash
