@@ -1,6 +1,7 @@
 ---
 name: Glycogen Storage Disease Type Ia (Von Gierke Disease) Diagnosis and Management
 description: 用于诊断和管理疑似糖原贮积症Ia型（Von Gierke病）的患儿，适用于婴儿期出现肝大、低血糖、乳酸酸中毒且智力正常的患者。当临床表现包括“娃娃脸”、生长迟缓、高尿酸血症和高脂血症时触发本技能。
+version: 1.0.0
 ---
 
 # 糖原贮积症Ia型（Von Gierke病）诊断与治疗流程

@@ -1,6 +1,7 @@
 ---
 name: Diagnose Distal Renal Tubular Acidosis Type I (RTA-I) in Children
 description: Use this skill to evaluate pediatric patients suspected of having distal renal tubular acidosis (RTA-I) when they present with growth failure, hypokalemia, bone disease, or urinary stones alongside hyperchloremic metabolic acidosis. Apply only after excluding glomerular and systemic diseases.
+version: 1.0.0
 ---
 
 # Diagnose Distal Renal Tubular Acidosis Type I (RTA-I) in Children

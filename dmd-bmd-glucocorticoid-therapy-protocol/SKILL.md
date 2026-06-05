@@ -1,6 +1,7 @@
 ---
 name: DMD/BMD糖皮质激素治疗规范
 description: 当患儿确诊为假肥大型肌营养不良（Duchenne或Becker型，DMD/BMD）时，使用本技能指导尽早启动并规范管理泼尼松治疗，包括剂量选择、疗效评估、剂量调整、多系统监测及辅助支持措施。
+version: 1.0.0
 ---
 
 # DMD/BMD糖皮质激素治疗规范
